@@ -1,13 +1,13 @@
 # Olá, eu sou o Thiago! 👋
 
 Sou desenvolvedor apaixonado por tecnologia, automação e soluções criativas. 
-Atualmente focado em projetos de **React**, **Node.js** e **Inteligência Artificial**.
+Atualmente focado em projetos de **n8n**, **Power Automate**, **Python** e **MySQL**.
 
 ## 🚀 Tecnologias e Ferramentas
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
+![n8n](https://img.shields.io/badge/-n8n-FE6A16?logo=n8n&logoColor=fff&style=flat)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-power-automate&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 
 ## 📈 GitHub Stats
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago3005&show_icons=true&theme=radical)
