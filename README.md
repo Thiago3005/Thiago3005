@@ -17,9 +17,9 @@ Tenho experiência em projetos de **n8n**, **Power Automate**, **Python** e **My
 - 🤝 Atualmente na [Zeki](https://zeki.com.br/), ajudando empresas a serem mais eficientes e lucrativas
 - 🌱 Sempre aprendendo novas tecnologias e melhores práticas
 
-## 🌟 Projetos em Destaque
+## 🌟 Projeto em Destaque
 
-- [Minha Aplicação Principal](https://link-da-sua-aplicacao.com) — Solução desenvolvida para automação e análise de dados empresariais (substitua pelo link real do seu projeto)
+- [Controle Financeiro Pessoal](https://thiago3005.github.io/controle-financeiro/) — Aplicação web desenvolvida para controle financeiro pessoal, com dashboards, automações e visualização intuitiva de receitas e despesas.
 
 ## 🌎 Onde me encontrar
 
