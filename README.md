@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://v0-curriculo-web-page.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver%20Currículo-0e1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Currículo Online"/>
+  </a>
+</p>
+
 ---
 
 ### 👋 Sobre mim
