@@ -35,14 +35,10 @@ Atualmente trabalho na [Zeki](https://zeki.com.br/), consultoria especialista em
 
 ---
 
-### 📊 Atividade & Gráficos
+### 📊 Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago3005&theme=github-compact&hide_border=true" alt="Gráfico de Atividade"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thiago3005&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
