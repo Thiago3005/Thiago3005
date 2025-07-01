@@ -1,15 +1,13 @@
+<h1 align="center">Thiago Augusto</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=Thiago%20Augusto&fontSize=40&fontColor=fff&desc=Automação%20%7C%20Dados%20%7C%20Soluções%20Inteligentes&descSize=20&descAlign=60" alt="banner"/>
+  <b>Automação | Dados | Soluções Inteligentes</b>
 </p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-n8n-FE6A16?logo=n8n&logoColor=fff&style=flat" />
-<img src="https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-power-automate&logoColor=fff&style=flat" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-n8n-FE6A16?logo=n8n&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-power-automate&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
+</p>
 
 ---
 
